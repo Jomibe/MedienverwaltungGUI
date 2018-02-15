@@ -5,7 +5,6 @@ public class Videospiel extends Spiel {
 	public Videospiel(String derTitel, int laenge, int fsk, boolean online) {
 		super(derTitel, laenge, fsk);
 		this.online = online;
-		// TODO Auto-generated constructor stub
 	}
 
 	public String getAusgabe() {
